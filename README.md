@@ -1,5 +1,5 @@
 # Integração JavaFX
-Início de integração da Eletra Energy Solutions com JavaFx.
+Início de integração da Eletra Energy Solutions com JavaFx.\n
 https://code.makery.ch/pt/library/javafx-tutorial/
 
 ## Instalação
